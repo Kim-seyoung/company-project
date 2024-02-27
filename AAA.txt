@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-bbb
-=======
-// Main
-
-// Frechman
-hello world!
->>>>>>> 549daed95b3b41099f1815c7834062918006c70d
+apple
+banana
